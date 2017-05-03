@@ -6,7 +6,7 @@ machine:
       oraclejdk8
   environment:
     TERM: dumb
-    HUGO:/usr/local/bin/hugo
+    HUGO: /usr/local/bin/hugo
 
 general:
   branches:
