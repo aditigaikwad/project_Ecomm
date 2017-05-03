@@ -15,4 +15,6 @@ general:
 deployment:
   staging:
     branch: master
+  post:
+    - hugo
 
