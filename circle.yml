@@ -12,5 +12,7 @@ general:
     only:
       - master # only build/deploy from master
   
-
+deployment:
+  staging:
+    branch: master
 
